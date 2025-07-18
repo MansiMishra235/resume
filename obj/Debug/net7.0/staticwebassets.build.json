@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "igda18UYs/JtwO1KrW6LbIHus+yBvnZy448qAhgXJ2g=",
+  "Source": "ResumePortfolio.API",
+  "BasePath": "_content/ResumePortfolio.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ResumePortfolio.API\\wwwroot",
+      "Source": "ResumePortfolio.API",
+      "ContentRoot": "C:\\Users\\com\\ResumePortfolio\\ResumePortfolio.API\\wwwroot\\",
+      "BasePath": "_content/ResumePortfolio.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\com\\ResumePortfolio\\ResumePortfolio.API\\wwwroot\\resume\\Mansi Mishra.pdf",
+      "SourceId": "ResumePortfolio.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\com\\ResumePortfolio\\ResumePortfolio.API\\wwwroot\\",
+      "BasePath": "_content/ResumePortfolio.API",
+      "RelativePath": "resume/Mansi Mishra.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resume\\Mansi Mishra.pdf"
+    }
+  ]
+}
