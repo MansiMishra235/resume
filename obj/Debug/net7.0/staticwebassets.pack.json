@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\com\\ResumePortfolio\\ResumePortfolio.API\\wwwroot\\resume\\Mansi Mishra.pdf",
+      "PackagePath": "staticwebassets\\resume\\Mansi Mishra.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ResumePortfolio.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ResumePortfolio.API.props",
+      "PackagePath": "build\\ResumePortfolio.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ResumePortfolio.API.props",
+      "PackagePath": "buildMultiTargeting\\ResumePortfolio.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ResumePortfolio.API.props",
+      "PackagePath": "buildTransitive\\ResumePortfolio.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
